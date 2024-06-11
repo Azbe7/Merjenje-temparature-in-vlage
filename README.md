@@ -14,7 +14,7 @@ Naprava za merjenje temperature in vlage uporablja senzor DHT11, ki redno meri t
 
 ### Arduino programska koda
 
-[Koda_Cvet](Koda_Cvet.ino)
+[KodaCvet](KodaCvet.ino)
 
 
 ### Videoposnetek delovanja
