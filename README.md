@@ -2,4 +2,4 @@
 
 ### Vezalna_shema 
 
-[Vezalna_shema](Vezalna_shema.png)
+[Vezalna shema](Vezalna_shema.png)
