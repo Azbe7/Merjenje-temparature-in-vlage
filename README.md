@@ -1,5 +1,5 @@
 # Merjenje-temparature-in-vlage
 
-### Vezalna shema 
+### Vezalna_shema 
 
-[Vezalna shema](Vezalna shema.png)
+[Vezalna_shema](Vezalna_shema.png)
