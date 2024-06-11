@@ -7,7 +7,7 @@ Naprava za merjenje temperature in vlage uporablja senzor DHT11, ki redno meri t
 ### Kosovnica
 
 |Uporabljen predmet|Št. kosov|
-
+|---|---|
 |Protoboard| 1 |
 |Arduino UNO R3| 1 |
 |DHT11 senzor| 1 |
