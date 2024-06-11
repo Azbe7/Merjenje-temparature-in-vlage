@@ -1,5 +1,10 @@
 # Merjenje-temparature-in-vlage
 
-### Vezalna_shema 
+### Kosovnica
+
+[Kosovnica](Kosovnica)
+
+### Vezalna shema 
 
 [Vezalna shema](Vezalna_shema.png)
+
