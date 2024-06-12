@@ -16,7 +16,7 @@ Naprava za merjenje temperature in vlage uporablja senzor DHT11, ki redno meri t
 |DHT11 senzor| 1 |
 |LCD zaslon| 1 |
 |Potenciometer| 1 |
-|Povezovalne žice| 20 |
+|Povezovalne žice| 19 |
 
 ### Vezalna shema 
 
