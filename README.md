@@ -6,7 +6,7 @@
 
 Naprava za merjenje temperature in vlage uporablja senzor DHT11, ki redno meri temperaturo in vlago v okolici. Izmerjene vrednosti so prikazane na 16x2 LCD zaslonu, kjer je vlaga prikazana v odstotkih (%) in temperatura V stopinjah Celzija (°C).
 
-Data sheet senzorja: [DHT11](DHT11)
+Datasheet senzorja: [DHT11](DHT11)
 
 
 ### Kosovnica
