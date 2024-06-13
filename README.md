@@ -28,10 +28,13 @@ Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
 ### Slika vezave
 
+### Skica ohišja
+
 ### Arduino programska koda
 
 Programska koda (Arduino IDE): [KodaCvet](KodaCvet.ino)
 
+### Slika končanega proejkta
 
 ### Videoposnetek delovanja
 
