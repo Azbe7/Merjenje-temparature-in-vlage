@@ -28,7 +28,7 @@ Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
 ### Slika vezave
 
-Vezje: [Slika vezave](Slika vezave)
+
 
 ### Skica ohišja
 
