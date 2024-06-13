@@ -22,7 +22,7 @@ Datasheet senzorja: [DHT11](DHT11)
 
 ### Vezalna shema 
 
-[Vezalna shema](Vezalna_shema.png)
+Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
 ### Arduino programska koda
 
