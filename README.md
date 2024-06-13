@@ -26,6 +26,8 @@ Datasheet senzorja: [DHT11](DHT11)
 
 Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
+### Slika vezave
+
 ### Arduino programska koda
 
 Programska koda (Arduino IDE): [KodaCvet](KodaCvet.ino)
