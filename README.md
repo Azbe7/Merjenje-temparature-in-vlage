@@ -34,7 +34,7 @@ Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
 Programska koda (Arduino IDE): [KodaCvet](KodaCvet.ino)
 
-### Slika končanega proejkta
+### Slika končanega projekta
 
 ### Videoposnetek delovanja
 
