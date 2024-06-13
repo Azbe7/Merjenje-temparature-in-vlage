@@ -26,7 +26,7 @@ Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
 ### Arduino programska koda
 
-Programska koda: [KodaCvet](KodaCvet.ino)
+Programska koda (Arduino IDE): [KodaCvet](KodaCvet.ino)
 
 
 ### Videoposnetek delovanja
