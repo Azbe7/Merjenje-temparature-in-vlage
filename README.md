@@ -32,7 +32,7 @@ Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
 ### Načrt ohišja
 
-Načrt ohišja narejen na A4 list: [Načrt_ohišja](Načrt_ohišja.jpg)
+Načrt ohišja narejen na A4 list: [Načrt ohišja](Načrt_ohišja.jpg)
 
 ### Arduino programska koda
 
