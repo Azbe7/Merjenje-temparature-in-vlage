@@ -46,7 +46,7 @@ Slika končnega izdelka: [Končni izdelek](Končni_izdelek.jpg)
 
 ### Ocena natančnosti
 
-## Podatki natančnosti iz DHT11 datasheet-a:
+#### Podatki natančnosti iz DHT11 datasheet-a:
 
 
 ### Komentar
