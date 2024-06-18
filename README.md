@@ -32,7 +32,7 @@ Slika vezja na protoboardu: [Slika vezja](Slika_vezja.jpg)
 
 ### Načrt ohišja
 
-Načrt ohišja narejen na A4 list: [Načrt ohišja](Načrt_ohiša.jpg)
+Načrt ohišja narejen na A4 list: [Načrt ohišja](Načrt_ohišja.jpg)
 
 ### Arduino programska koda
 
