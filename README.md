@@ -28,7 +28,7 @@ Vezalna shema narejena v EasyEda: [Vezalna shema](Vezalna_shema.png)
 
 ### Slika vezave
 
-
+Slika vezja na protoboardu: [Slika vezja](Slika_vezja.jpg)
 
 ### Načrt ohišja
 
