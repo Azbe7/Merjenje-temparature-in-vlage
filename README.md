@@ -40,6 +40,8 @@ Programska koda (Arduino IDE): [KodaCvet](KodaCvet.ino)
 
 ### Slika končanega projekta
 
+Slika končnega izdelka: [Končni izdelek](Končni_izdelek.jpg)
+
 ### Videoposnetek delovanja
 
 ### Ocena natančnosti
