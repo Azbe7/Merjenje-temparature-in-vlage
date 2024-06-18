@@ -54,6 +54,8 @@ Natančnost meritve vlage: ± 5 % RH
 
 Temperaturno območje senzorja: 0-50 °C
 
+#### Podatki natančnosti pri mojem izdelku:
+
 
 ### Komentar
 
