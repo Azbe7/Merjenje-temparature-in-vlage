@@ -48,6 +48,12 @@ Slika končnega izdelka: [Končni izdelek](Končni_izdelek.jpg)
 
 #### Podatki natančnosti iz [DHT11 datasheet-a](DHT11.pdf):
 
+Natančnost meritve temperature: ± 2 °C
+
+Natančnost meritve vlage: ± 5 % RH
+
+Temperaturno območje senzorja: 0-50 °C
+
 
 ### Komentar
 
