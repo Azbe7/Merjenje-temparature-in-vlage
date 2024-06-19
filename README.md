@@ -58,6 +58,11 @@ Temperaturno območje senzorja: 0-50 °C
 
 #### Podatki natančnosti pri mojem izdelku:
 
+Natančnost meritve temperature: ± 1 °C
+
+Natančnost meritve vlage: /
+
+Temperaturno območje senzorja: 0-60.10 °C
 
 ### Komentar
 
