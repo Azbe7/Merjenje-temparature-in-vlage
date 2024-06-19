@@ -44,7 +44,7 @@ Slika končnega izdelka: [Končni izdelek](Končni_izdelek.jpg)
 
 ### Videoposnetek delovanja
 
-Videoposnetek delovanja naprave: [Videoposnetek delovanja](Videposnetek_delovanja.mov)
+Videoposnetek delovanja naprave: [Videoposnetek delovanja](Videposnetek_delovanja.MOV)
 
 ### Ocena natančnosti
 
